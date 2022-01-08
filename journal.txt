@@ -1,7 +1,7 @@
 Journal Entries
 
 
-Jan 7. 2022 - Reviewed Linux System Administration course, learned about system and process monitoring tools such as 'top and 'ps'.
+Jan 7. 2022 - Reviewed Linux System Administration course, learned about system and process monitoring tools such as 'top' and 'ps'.
 
 Brain stormed some ideas on a discord bot. Debated between using Discord.js and  Discord.py. 
 
