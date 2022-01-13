@@ -1,6 +1,7 @@
 <h1>Journal Entries</h1>
 
-####Jan 13. 2022
+<h4>Jan 13. 2022</h4>
+
 ##### Portfolio Project Status Update
 For the past few days were significant improvement on my personal portfoilo project. I have worked hard to include extra cool features. 
 
@@ -68,7 +69,8 @@ Here are some cool things I've learned in the procress:
 
 
 
-####Jan 8. 2022 
+<h4>Jan 8. 2022</h4>
+
 ##### Learned about Markdown!
 - Learned how to use Markdown files (.md)
 - Redid journal on MacDown which is a Markdown editor
@@ -92,7 +94,7 @@ const myConcatArray = (arr1, arr2) => arr1.concat(arr2);
 ```
 Very useful!
 
-####Jan 7. 2022
+<h4>Jan 7. 2022</h4>
  - Reviewed Linux System Administration course, learned about system and process monitoring tools such as 'top and 'ps'.
 
 - Brain stormed some ideas on a discord bot. Debated between using Discord.js and  Discord.py. 
