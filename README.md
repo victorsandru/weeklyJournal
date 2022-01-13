@@ -28,28 +28,28 @@ Here are some cool things I've learned in the procress:
 	Instead of having the page directly snap to the anchored link, a smooth transition would be preferable. After some reading and researched, I settled for [Chris Coyier's jQuery script](https://css-tricks.com/snippets/jquery/smooth-scrolling/#aa-smooth-scroll-with-jquery). Here is the script after some editing from me: 
 	
 	```
-	// Select all links with hashes
+	/ Select all links with hashes
 $('a[href*="#"]')
 
   .click(function(event) {
-    // On-page links
+    / On-page links
     if (
       location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') 
       && 
       location.hostname == this.hostname
     ) {
-      // Figure out element to scroll to
+      / Figure out element to scroll to
       var target = $(this.hash);
       target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
-      // Does a scroll target exist?
+      / Does a scroll target exist?
       if (target.length) {
-        // Only prevent default if animation is actually gonna happen
+        / Only prevent default if animation is actually gonna happen
         event.preventDefault();
         $('html, body').animate({
           scrollTop: target.offset().top
         }, 1000, function() {
-          // Callback after animation
-          // Must change focus!
+          / Callback after animation
+          / Must change focus!
           var $target = $(target);
           $target.focus();
           if ($target.is(":focus")) { // Checking if the target was focused
