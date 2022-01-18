@@ -10,10 +10,10 @@ Here are some cool things I've learned in the procress:
 - **Security Concerns and how to deal with them**
 
 
- This project has allowed me to realize how important security is when developing full stack applications. 
+ 	This project has allowed me to realize how important security is when developing full stack applications. 
 
 
- I have learned that whenever I use anchor links to external websites, I should always attach a `rel="noreferrer"` or `rel="noopener"`. This prevents the new page from accessing the `window.opener` property.
+ 	I have learned that whenever I use anchor links to external websites, I should always attach a `rel="noreferrer"` or `rel="noopener"`. This prevents the new page from accessing the `window.opener` property.
 
 
 - **Basic Web Accessibility Resources**
@@ -24,6 +24,7 @@ Here are some cool things I've learned in the procress:
 	Looking more into it, contrast between foreground text and background text is more important than I thought. Using the [webAIM](https://webaim.org/resources/contrastchecker/) resource, It was possible to check which colours contrasted well. Consquently, I was able to apply this knowledge to my personal project!
 
 - **Scroll Animations**
+
 	Wanting to impress my buddies with my brand new website, I wanted to include some cool animations. One practical way I included animations was the anchor link scroll.
 	
 	Instead of having the page directly snap to the anchored link, a smooth transition would be preferable. After some reading and researched, I settled for [Chris Coyier's jQuery script](https://css-tricks.com/snippets/jquery/smooth-scrolling/#aa-smooth-scroll-with-jquery). Here is the script after some editing from me: 
