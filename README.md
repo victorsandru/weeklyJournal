@@ -1,6 +1,33 @@
-<h1>Journal Entries</h1>
+# Journal Entries
+* * *
 
-<h4>Jan 13. 2022</h4>
+
+## Jan 22. 2022
+
+#### Portfoilo is launched!
+You can check out my website at [victorsandru.com](https://victorsandru.com)
+
+Here are some things I learned along the way: 
+
+- **Web Hosting**
+	
+	After pushing my final commit, I realized I had to start looking into web hosting services. First I tried Google Cloud Platform. I was amazed by the amount of possiblites I can do with GCP. 
+	
+	I played around and started a cloud VM and connected it with SSH. Afterwards, I installed Docker and launched a container with Alpine in it. To recap, I performing commands in Alpine which is in a Docker container, which is installed on the cloud. All this from my **own** command terminal. That's awesome.
+	
+	Anyways, the issue with using GCP with web hosting was that I had to use a third-party to obtain a SSL certificate. So I looked to Firebase. Firebase is equally awesome. Probably the coolest thing I've ever done on a project was using Firebase.
+	
+	Here's what I was trying to solve: the tedious and time sink of updating your local files for your application and then having to upload them to your web hosting. With firebase it was possible to deploy to live via GitHub pull requests. Isn't that awesome?!
+
+#### Future plans and updates
+- Update my portfolio from Bootstrap and basic HTML to React
+- Discord bot that can access Riot Games' API library and sort through the data
+- Create a blog using React
+
+
+* * *
+
+## Jan 13. 2022
 
 ##### Portfolio Project Status Update
 For the past few days were significant improvement on my personal portfoilo project. I have worked hard to include extra cool features. 
@@ -69,6 +96,7 @@ Here are some cool things I've learned in the procress:
 
 
 
+* * *
 
 <h4>Jan 8. 2022</h4>
 
@@ -94,6 +122,8 @@ const myConcatArray = (arr1, arr2) => arr1.concat(arr2);
 
 ```
 Very useful!
+
+* * *
 
 <h4>Jan 7. 2022</h4>
  - Reviewed Linux System Administration course, learned about system and process monitoring tools such as 'top and 'ps'.
