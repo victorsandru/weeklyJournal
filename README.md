@@ -1,7 +1,32 @@
 # Journal Entries
-* * *
+Victor Sandru
 
+<!--* * *
+## Table of Contents
 
+- [January 22, 2022](#jan-22.-2022)
+- [Jan 13. 2022][]-->
+## May 10. 2022
+
+####End of school year update
+Hello again! It's been a while. My second semester was not very kind and it beraded me with work. Nothing I couldn't handle though, I accomplished my goal of being on the Dean's Honour List! I worked very hard for this achievement and I am looking forward to more to come.
+
+I have learned a lot this semester, and I am very excited to share these new findings with you!
+
+- **Java**
+
+	At the end of the previous semester, I was introduced to Python Object Oriented Programming (OOP). It was quite difficult to understand, until I worked with Java. 
+	
+	Java is a high-level object-oriented progamming language. Unlike Python, you must follow OOP principles to fully utilize Java. I learned about the beauty of OOP and how simple it makes organizing your thoughts and files.
+		
+	I really do have a love/hate relationship with Java. On some days I feel on top of the world with this language, convinced that I could create anything. On other days I am convinced that Java is the worst language created.
+
+- **Python Tutoring**
+	
+	Sometime in the middle of my semester, one of my buddies approached me to ask for help with his assignment. I happily helped, and realized that it was also very rewarding for me to help others out with something that I am passionate about.
+	
+	He recommended me to a bunch of his other friends, and now I have a few students that I meet with weekly to just talk about Python, and computer science fundamentals. The best part out of all this is that I learn new things from my students! They have a different perspective for coding since they are still new. 
+	
 ## Jan 22. 2022
 
 #### Portfoilo is launched!
