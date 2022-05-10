@@ -1,8 +1,8 @@
 # Journal Entries
 
-##May 10. 2022
+## May 10. 2022
 
-####End of school year update
+#### End of school year update
 
 Hello again! It's been a while. My second semester was not very kind and it showered me with work. Nothing I couldn't handle though, I accomplished my goal of being on the Dean's Honour List! I worked very hard for this achievement and I am looking forward to more to come.
 
@@ -27,7 +27,9 @@ I have learned a lot this semester, and I am very excited to share these new fin
 - Continue my shadowing of a DevOps Engineer
 - Create a curriculum for my Tutoring gig
 
-##Jan 22. 2022
+* * *
+
+## Jan 22. 2022
 
 #### Portfoilo is launched!
 You can check out my website at [victorsandru.com](https://victorsandru.com)
@@ -52,7 +54,7 @@ Here are some things I learned along the way:
 
 * * *
 
-##Jan 13. 2022
+## Jan 13. 2022
 
 ##### Portfolio Project Status Update
 For the past few days were significant improvement on my personal portfoilo project. I have worked hard to include extra cool features. 
